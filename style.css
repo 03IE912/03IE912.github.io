@@ -1,0 +1,51 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Georgia", serif;
+  margin: 30px;
+  padding: 20px;
+}
+
+nav {
+  background-color: rgb(206, 232, 240);
+  padding: 10px;
+}
+
+nav a {
+  color: blue;
+  margin-right: 10px;
+}
+
+h1 {
+  color: black;
+  font-size: 30px;
+}
+
+h2 {
+  color: black;
+  font-size: 22px;
+}
+
+p, li, dd {
+  font-size: 18px;
+}
+
+img {
+  margin-top: 10px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+ul {
+  background-color: lightcyan;
+  padding: 10px;
+}
+
+dl {
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+}
+
+body.home {
+  background-color: beige;
+  text-align: center;
+}
